@@ -41,4 +41,4 @@ I'm Software Developer
 
 <b>DevCard<b>
 
-<a href="https://app.daily.dev/Huto"><img src="https://api.daily.dev/devcards/561f01ba4fa3424792dc2e53690fba7f.png?r=idq" width="400" alt="Huto's Dev Card"/></a>
+<a href="https://app.daily.dev/Huto"><img src="https://api.daily.dev/devcards/561f01ba4fa3424792dc2e53690fba7f.png?r=idq" width="300" alt="Huto's Dev Card"/></a>
