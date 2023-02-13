@@ -20,7 +20,6 @@ I'm Software Developer
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
@@ -39,3 +38,7 @@ I'm Software Developer
 <a href="http://www.github.com/Hutotpn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hutotpn&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Hutotpn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutotpn&langs_count=10&title_color=10b981&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>DevCard<b>
+
+<a href="https://app.daily.dev/Huto"><img src="https://api.daily.dev/devcards/561f01ba4fa3424792dc2e53690fba7f.png?r=idq" width="400" alt="Huto's Dev Card"/></a>
