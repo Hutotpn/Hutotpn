@@ -35,6 +35,4 @@ I'm Software Developer
 
 <a href="http://www.github.com/Hutotpn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hutotpn&stroke=3382ed&background=ffffff&ring=10b981&fire=10b981&currStreakNum=3382ed&currStreakLabel=10b981&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/Hutotpn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hutotpn&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Hutotpn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutotpn&langs_count=10&title_color=10b981&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
