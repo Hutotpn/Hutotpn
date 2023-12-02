@@ -8,7 +8,9 @@
 [![Huto's GitHub Stat](https://github-readme-stats.vercel.app/api?username=Hutotpn&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&ring_color=eff1f5#gh-light-mode-only)](https://github.com/Hutotpn#gh-light-mode-only)
 [![Huto's GitHub Stat](https://github-readme-stats.vercel.app/api?username=Hutotpn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&ring_color=1b1b27#gh-dark-mode-only)](https://github.com/Hutotpn#gh-dark-mode-only)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hutotpn&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hutotpn&theme=catppuccin-latte&hide_border=true#gh-light-mode-only)](https://github.com/Hutotpn#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hutotpn&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/Hutotpn#gh-dark-mode-only)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hutotpn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
