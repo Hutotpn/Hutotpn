@@ -19,4 +19,4 @@
 [![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hutotpn#gh-dark-mode-only)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hutotpn&icon=5&color=0)](https://visitcount.itsvg.in)
+[![Visit Counter](https://visitcount.itsvg.in/api?id=Hutotpn&label=Profile%20Views&color=0&icon=5&pretty=true)](https://github.com/Hutotpn)
