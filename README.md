@@ -1,4 +1,4 @@
-# Hi! 🖐️ My name is Huto
+# Hi! 👋🏼 My name is Huto
 
 🔭 I’m currently working on internal project<br>🌱 I’m currently learning Typescript
 
