@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/fonts.css" />
+  </head>
+  <body>
+    <header class="flex items-center justify-between px-16 py-10">
+      <h1 class="text-2xl font-extrabold">Huto</h1>
+      <nav class="flex space-x-4">
+        <a href="#about" class="font-medium text-gray-600 hover:text-gray-800"
+          >About</a
+        >
+        <a
+          href="#projects"
+          class="font-medium text-gray-600 hover:text-gray-800"
+          >Projects</a
+        >
+        <a href="#contact" class="font-medium text-gray-600 hover:text-gray-800"
+          >Contact</a
+        >
+      </nav>
+    </header>
+
+    <main class="container mx-auto px-4 py-12">
+      <section id="about" class="mb-12">
+        <h2 class="text-3xl font-bold">About Me</h2>
+        <p class="mt-4 text-lg">Write a short introduction about yourself.</p>
+      </section>
+
+      <section
+        id="projects"
+        class="mb-12 grid grid-cols-1 gap-8 md:grid-cols-2"
+      >
+        <div class="hover:shadow-lg-hover rounded-lg bg-white p-4 shadow-md">
+          <h3>Project 1</h3>
+          <p class="mt-2">Brief description of your project.</p>
+        </div>
+        <div class="hover:shadow-lg-hover rounded-lg bg-white p-4 shadow-md">
+          <h3>Project 2</h3>
+          <p class="mt-2">Brief description of your project.</p>
+        </div>
+      </section>
+
+      <section id="contact" class="mb-12">
+        <h2 class="text-3xl font-bold">Contact</h2>
+        <p class="mt-4 text-lg">Provide your contact information.</p>
+      </section>
+    </main>
+
+    <footer class="bg-gray-900 py-4 text-center text-white">
+      <p>© 2024 Your Name</p>
+    </footer>
+  </body>
+</html>
